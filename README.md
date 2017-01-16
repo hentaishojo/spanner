@@ -1,2 +1,2 @@
 # spanner
-My gay friend, spanner.
+<img src="http://2.im.guokr.com/rcJg_IIk9K2nJwSypEMzQk1QL-qSVNHP7rnHlBueHYM2AQAANgEAAEpQ.jpg">
