@@ -1,9 +1,0 @@
-F:\code\C#\GraphicEngine\GraphicEngine\bin\Debug\GraphicEngine.exe.config
-F:\code\C#\GraphicEngine\GraphicEngine\bin\Debug\GraphicEngine.exe
-F:\code\C#\GraphicEngine\GraphicEngine\bin\Debug\GraphicEngine.pdb
-F:\code\C#\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.csprojResolveAssemblyReference.cache
-F:\code\C#\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.Properties.Resources.resources
-F:\code\C#\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.csproj.GenerateResource.Cache
-F:\code\C#\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.exe
-F:\code\C#\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.pdb
-F:\code\C#\GraphicEngine\GraphicEngine\obj\Debug\GraphicEngine.GE.resources
