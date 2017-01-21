@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ls>
+    <ArrayOfString>
+      <string>General</string>
+      <string>General</string>
+      <string>G57</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Hole</string>
+      <string>Hole-1</string>
+      <string>G55</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Hole</string>
+      <string>Hole-3</string>
+      <string>G57</string>
+    </ArrayOfString>
+  </ls>
+  <serial>5</serial>
+</Data>

@@ -1,0 +1,15 @@
+F:\code\C#\LiaoMIS\LiaoMIS\bin\Debug\LiaoMIS.exe.config
+F:\code\C#\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.csprojResolveAssemblyReference.cache
+F:\code\C#\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.Properties.Resources.resources
+F:\code\C#\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.csproj.GenerateResource.Cache
+F:\code\C#\LiaoMIS\LiaoMIS\bin\Debug\LiaoMIS.exe
+F:\code\C#\LiaoMIS\LiaoMIS\bin\Debug\LiaoMIS.pdb
+F:\code\C#\LiaoMIS\LiaoMIS\bin\Debug\MySql.Data.dll
+F:\code\C#\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.exe
+F:\code\C#\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.pdb
+F:\code\C#\LiaoMIS\LiaoMIS\bin\Debug\Database1.mdf
+F:\code\C#\LiaoMIS\LiaoMIS\bin\Debug\Database1_log.ldf
+F:\code\C#\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.FormMain.resources
+F:\code\C#\_Sync\spanner\Half\LiaoMIS\LiaoMIS\bin\Debug\LiaoMIS.exe.config
+F:\code\C#\_Sync\spanner\Half\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.exe
+F:\code\C#\_Sync\spanner\Half\LiaoMIS\LiaoMIS\obj\Debug\LiaoMIS.pdb

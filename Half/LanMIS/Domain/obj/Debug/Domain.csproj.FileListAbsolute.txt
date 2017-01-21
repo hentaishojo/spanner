@@ -1,0 +1,6 @@
+F:\code\C#\LanMIS\Domain\bin\Debug\Domain.dll.config
+F:\code\C#\LanMIS\Domain\bin\Debug\Domain.dll
+F:\code\C#\LanMIS\Domain\bin\Debug\Domain.pdb
+F:\code\C#\LanMIS\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+F:\code\C#\LanMIS\Domain\obj\Debug\Domain.dll
+F:\code\C#\LanMIS\Domain\obj\Debug\Domain.pdb

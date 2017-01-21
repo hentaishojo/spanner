@@ -1,0 +1,7 @@
+F:\code\C#\LanMIS\Session\bin\Debug\Session.dll
+F:\code\C#\LanMIS\Session\bin\Debug\Session.pdb
+F:\code\C#\LanMIS\Session\bin\Debug\Domain.dll
+F:\code\C#\LanMIS\Session\bin\Debug\Domain.pdb
+F:\code\C#\LanMIS\Session\obj\Debug\Session.csprojResolveAssemblyReference.cache
+F:\code\C#\LanMIS\Session\obj\Debug\Session.dll
+F:\code\C#\LanMIS\Session\obj\Debug\Session.pdb

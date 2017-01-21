@@ -1,0 +1,8 @@
+F:\code\C#\OpenGLtest\OpenGLtest\bin\Debug\OpenGLtest.exe.config
+F:\code\C#\OpenGLtest\OpenGLtest\bin\Debug\OpenGLtest.exe
+F:\code\C#\OpenGLtest\OpenGLtest\bin\Debug\OpenGLtest.pdb
+F:\code\C#\OpenGLtest\OpenGLtest\bin\Debug\OpenGL.dll
+F:\code\C#\OpenGLtest\OpenGLtest\bin\Debug\Tao.FreeGlut.dll
+F:\code\C#\OpenGLtest\OpenGLtest\obj\Debug\OpenGLtest.csprojResolveAssemblyReference.cache
+F:\code\C#\OpenGLtest\OpenGLtest\obj\Debug\OpenGLtest.exe
+F:\code\C#\OpenGLtest\OpenGLtest\obj\Debug\OpenGLtest.pdb

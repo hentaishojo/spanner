@@ -1,0 +1,13 @@
+F:\code\C#\WPFtest20170121\WPFtest20170121\bin\Debug\WPFtest20170121.exe.config
+F:\code\C#\WPFtest20170121\WPFtest20170121\bin\Debug\WPFtest20170121.exe
+F:\code\C#\WPFtest20170121\WPFtest20170121\bin\Debug\WPFtest20170121.pdb
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121.csprojResolveAssemblyReference.cache
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\MainWindow.baml
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\MainWindow.g.cs
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\App.g.cs
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121_MarkupCompile.cache
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121.g.resources
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121.Properties.Resources.resources
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121.csproj.GenerateResource.Cache
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121.exe
+F:\code\C#\WPFtest20170121\WPFtest20170121\obj\Debug\WPFtest20170121.pdb

@@ -1,0 +1,12 @@
+D:\codes\C#\start\start\start\bin\Debug\start.exe.config
+D:\codes\C#\start\start\start\bin\Debug\start.exe
+D:\codes\C#\start\start\start\bin\Debug\start.pdb
+D:\codes\C#\start\start\start\obj\Debug\start.csprojResolveAssemblyReference.cache
+D:\codes\C#\start\start\start\obj\Debug\start.Form1.resources
+D:\codes\C#\start\start\start\obj\Debug\start.Properties.Resources.resources
+D:\codes\C#\start\start\start\obj\Debug\start.csproj.GenerateResource.Cache
+D:\codes\C#\start\start\start\obj\Debug\start.exe
+D:\codes\C#\start\start\start\obj\Debug\start.pdb
+F:\code\C#\start\start\start\bin\Debug\start.exe.config
+F:\code\C#\start\start\start\obj\Debug\start.exe
+F:\code\C#\start\start\start\obj\Debug\start.pdb
